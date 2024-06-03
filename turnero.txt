@@ -1,0 +1,16 @@
+TURNOS
+
+1. Sacar turno
+2. Ver turnos
+3. Eliminar turno
+4. Salir
+Seleccione una opción: 1
+Ingrese el nombre de la mascota: huilen
+Turno para huilen ha sido sacado.
+
+¡Bienvenido al Turnero de Mascotas!
+1. Sacar turno
+2. Ver turnos
+3. Eliminar turno
+4. Salir
+Seleccione una opción:
